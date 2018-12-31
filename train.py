@@ -1,3 +1,5 @@
 import tensorflow as tf
-import utils.yolo_NN as NN
-import dataset_reader
+from utils import yolo_NN as NN
+from utils import dataset_reader as dataset_reader
+
+
